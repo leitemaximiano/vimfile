@@ -15,4 +15,10 @@ $ cd ~/.vim && git submodule update --init
 
 [lightline](https://github.com/itchyny/lightline.vim)  Um plugin queda um estilo para a barra de status do vim.
 
+## help
+
+[procurar plugin](https://vimawesome.com/plugin/vim-multiple-cursors) 
+
+[10 plugins essenciais](https://medium.com/@huntie/10-essential-vim-plugins-for-2018-39957190b7a9)
+
 
