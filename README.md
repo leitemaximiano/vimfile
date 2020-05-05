@@ -9,5 +9,10 @@ $ cd ~/.vim && git submodule update --init
 
 ## Plugins
 
-- [Pathogen]("https://github.com/tpope/vim-pathogen") gerenciador de plugin. 
-- [delimitMate]("https://github.com/Raimondi/delimitMate") Este plug-in fornece fechamento automático de aspas, parênteses, colchetes, etc.
+[Pathogen](https://github.com/tpope/vim-pathogen) gerenciador de plugin. 
+
+[delimitMate](https://github.com/Raimondi/delimitMate) Este plug-in fornece fechamento automático de aspas, parênteses, colchetes, etc.
+
+[lightline](https://github.com/itchyny/lightline.vim)  Um plugin queda um estilo para a barra de status do vim.
+
+
