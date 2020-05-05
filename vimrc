@@ -4,13 +4,8 @@ filetype plugin indent on
 syntax on
 set nu
 
-let g:lightline = {
-\ 'colorscheme': 'wombat',
-\ 'active': {
-\   'left': [ [ 'mode', 'paste' ],
-\             [ 'readonly', 'filename', 'modified', 'charvaluehex' ] ]
-\ },
-\ 'component': {
-\   'charvaluehex': '0x%B'
-\ },
-\ }
+set laststatus=2
+if !has('gui_running')
+  set t_Co=256
+endif
+set noshowmode
