@@ -4,6 +4,7 @@
 ```bash
 $ git clone https://github.com/maximanoLeite/vimfile.git ~/.vim
 $ echo "source ~/.vimrc/vimrc" > ~/.vimrc
+$ cd ~/.vim && git submodule update --init
 ```
 
 ## Plugins
