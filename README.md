@@ -3,7 +3,7 @@
 ## install 
 ```bash
 $ git clone https://github.com/maximanoLeite/vimfile.git ~/.vim
-$ echo "source ~/.vimrc/vimrc" > ~/.vimrc
+$ echo "source ~/.vim/vimrc" > ~/.vimrc
 $ cd ~/.vim && git submodule update --init
 ```
 
